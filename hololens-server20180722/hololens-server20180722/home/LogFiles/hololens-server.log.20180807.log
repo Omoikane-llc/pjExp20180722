@@ -1,0 +1,8 @@
+﻿2018-08-07 06:36:42,315 [7] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-07 06:36:42,331 [7] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-07 06:36:42,332 [7] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-07 06:36:42,332 [7] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-07 06:36:46,703 [5] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-07 06:36:46,703 [5] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-07 06:36:46,710 [5] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-07 06:36:46,710 [5] INFO hololens_server20180722.Controllers.ValuesController - End Post 

@@ -1,0 +1,1230 @@
+﻿2018-08-25 11:57:51,211 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:57:51,223 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:57:51,224 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is empty 
+2018-08-25 11:57:51,225 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetLastPosition Layer05-XRow04-ZCol03
+2018-08-25 11:57:51,225 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer05-XRow04-ZCol03
+2018-08-25 11:57:51,227 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:51,235 [8] DEBUG hololens_server20180722.Models.OthelloPlay - reach emply position 
+2018-08-25 11:57:51,235 [8] DEBUG hololens_server20180722.Models.OthelloPlay - End CheckReverse 
+2018-08-25 11:57:51,236 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:51,236 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:51,236 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:51,236 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:51,236 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:51,236 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:51,236 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:51,237 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:51,237 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:51,237 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:57:51,239 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:57:51,239 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:57:54,331 [7] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:57:54,331 [7] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:57:54,333 [7] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is empty 
+2018-08-25 11:57:54,334 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetLastPosition Layer05-XRow03-ZCol03
+2018-08-25 11:57:54,334 [7] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer05-XRow03-ZCol03
+2018-08-25 11:57:54,334 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:54,334 [7] DEBUG hololens_server20180722.Models.OthelloPlay - reach emply position 
+2018-08-25 11:57:54,334 [7] DEBUG hololens_server20180722.Models.OthelloPlay - reach emply position 
+2018-08-25 11:57:54,334 [7] DEBUG hololens_server20180722.Models.OthelloPlay - End CheckReverse 
+2018-08-25 11:57:54,335 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:54,335 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:54,335 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:54,335 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:54,335 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:54,336 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:54,336 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:54,337 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:54,337 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:54,337 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:54,337 [7] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:57:54,338 [7] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:57:54,338 [7] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:57:57,531 [7] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:57:57,531 [7] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:57:57,532 [7] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is empty 
+2018-08-25 11:57:57,533 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetLastPosition Layer04-XRow04-ZCol06
+2018-08-25 11:57:57,533 [7] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer04-XRow04-ZCol06
+2018-08-25 11:57:57,533 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:57,533 [7] DEBUG hololens_server20180722.Models.OthelloPlay - reach emply position 
+2018-08-25 11:57:57,533 [7] DEBUG hololens_server20180722.Models.OthelloPlay - End CheckReverse 
+2018-08-25 11:57:57,534 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:57,534 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:57,534 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:57,534 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:57,536 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:57,536 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:57,537 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:57,537 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:57,537 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:57,538 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:57,538 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:57:57,538 [7] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:57:57,539 [7] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:57:57,539 [7] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:00,542 [7] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:00,542 [7] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:00,544 [7] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  tempNumber
+2018-08-25 11:58:00,544 [7] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol04
+2018-08-25 11:58:00,545 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:00,545 [7] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:00,545 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:00,545 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:00,545 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:00,545 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:00,546 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:00,546 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:00,546 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:00,547 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:00,547 [7] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:00,547 [7] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:00,548 [7] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:03,543 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:03,544 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:03,546 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:03,546 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol04
+2018-08-25 11:58:03,546 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:03,546 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:03,546 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:03,547 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:03,547 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:03,548 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:03,548 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:03,548 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:03,549 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:03,549 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:03,549 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:03,550 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:03,550 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:06,544 [7] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:06,544 [7] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:06,547 [7] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:06,547 [7] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol04
+2018-08-25 11:58:06,547 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:06,547 [7] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:06,547 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:06,548 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:06,548 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:06,548 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:06,548 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:06,549 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:06,549 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:06,549 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:06,549 [7] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:06,550 [7] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:06,550 [7] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:09,554 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:09,554 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:09,558 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:09,558 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer06-XRow05-ZCol06
+2018-08-25 11:58:09,559 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:09,559 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:09,560 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:09,560 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:09,560 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:09,561 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:09,562 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:09,562 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:09,563 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:09,563 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:09,563 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:09,564 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:09,564 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:12,553 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:12,553 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:12,556 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:12,556 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer06-XRow05-ZCol06
+2018-08-25 11:58:12,556 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:12,556 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:12,557 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:12,557 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:12,557 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:12,558 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:12,558 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:12,559 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:12,559 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:12,559 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:12,559 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:12,560 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:12,560 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:15,562 [7] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:15,567 [7] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:15,570 [7] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:15,573 [7] INFO hololens_server20180722.Models.CompPlay - Start ChangeStateComp Layer06-XRow05-ZCol06
+2018-08-25 11:58:15,580 [7] DEBUG hololens_server20180722.Models.CompPlay - layerIndex 06 xRowIndex 05 zColIndex 06
+2018-08-25 11:58:15,581 [7] DEBUG hololens_server20180722.Models.CompPlay - GetAdjcentPositions 26
+2018-08-25 11:58:15,582 [7] INFO hololens_server20180722.Models.CompPlay - End ChangeStateComp Layer05-XRow04-ZCol05 2
+2018-08-25 11:58:15,582 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetLastPosition Layer05-XRow04-ZCol05
+2018-08-25 11:58:15,582 [7] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer05-XRow04-ZCol05
+2018-08-25 11:58:15,582 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:15,583 [7] DEBUG hololens_server20180722.Models.OthelloPlay - reach emply position 
+2018-08-25 11:58:15,583 [7] DEBUG hololens_server20180722.Models.OthelloPlay - reach emply position 
+2018-08-25 11:58:15,583 [7] DEBUG hololens_server20180722.Models.OthelloPlay - reach emply position 
+2018-08-25 11:58:15,583 [7] DEBUG hololens_server20180722.Models.OthelloPlay - reach emply position 
+2018-08-25 11:58:15,583 [7] DEBUG hololens_server20180722.Models.OthelloPlay - End CheckReverse 
+2018-08-25 11:58:15,583 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:15,584 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:15,584 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:15,585 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:15,585 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:15,585 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:15,587 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:15,588 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:15,588 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:15,589 [7] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:15,589 [7] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:15,590 [7] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:18,578 [7] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:18,578 [7] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:18,584 [7] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:18,589 [7] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol05
+2018-08-25 11:58:18,592 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:18,593 [7] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:18,593 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:18,594 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:18,594 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:18,595 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:18,595 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:18,600 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:18,601 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:18,602 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:18,603 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:18,603 [7] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:18,604 [7] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:18,604 [7] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:21,570 [7] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:21,570 [7] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:21,573 [7] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:21,573 [7] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol05
+2018-08-25 11:58:21,573 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:21,574 [7] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:21,574 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:21,575 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:21,575 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:21,576 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:21,577 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:21,578 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:21,578 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:21,578 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:21,579 [7] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:21,579 [7] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:21,580 [7] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:21,580 [7] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:24,597 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:24,597 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:24,600 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:24,600 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol05
+2018-08-25 11:58:24,600 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:24,600 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:24,601 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:24,601 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:24,602 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:24,603 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:24,604 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:24,604 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:24,606 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:24,606 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:24,606 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:24,606 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:24,607 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:24,607 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:27,602 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:27,602 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:27,605 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:27,605 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol05
+2018-08-25 11:58:27,605 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:27,605 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:27,605 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:27,606 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:27,606 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:27,606 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:27,606 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:27,607 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:27,607 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:27,607 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:27,607 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:27,607 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:27,608 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:27,608 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:30,605 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:30,607 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:30,608 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:30,609 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol05
+2018-08-25 11:58:30,609 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:30,609 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:30,609 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:30,609 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:30,610 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:30,610 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:30,610 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:30,611 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:30,612 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:30,612 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:30,612 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:30,613 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:30,613 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:30,613 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:33,612 [11] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:33,612 [11] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:33,615 [11] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:33,615 [11] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol06
+2018-08-25 11:58:33,615 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:33,615 [11] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:33,616 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:33,616 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:33,616 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:33,617 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:33,617 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:33,618 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:33,618 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:33,618 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:33,619 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:33,619 [11] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:33,619 [11] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:33,619 [11] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:36,614 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:36,615 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:36,617 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:36,617 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol06
+2018-08-25 11:58:36,617 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:36,617 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:36,617 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:36,618 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:36,618 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:36,618 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:36,618 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:36,619 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:36,619 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:36,619 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:36,619 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:36,619 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:36,620 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:36,620 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:39,643 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:39,644 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:39,646 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:39,646 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol06
+2018-08-25 11:58:39,646 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:39,646 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:39,647 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:39,647 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:39,647 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:39,647 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:39,648 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:39,648 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:39,648 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:39,648 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:39,649 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:39,649 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:39,649 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:39,650 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:42,640 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:42,641 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:42,643 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:42,644 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol06
+2018-08-25 11:58:42,644 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:42,644 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:42,645 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:42,645 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:42,645 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:42,646 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:42,646 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:42,646 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:42,647 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:42,647 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:42,648 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:42,648 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:42,649 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:42,649 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:45,646 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:45,646 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:45,648 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:45,648 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol06
+2018-08-25 11:58:45,649 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:45,649 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:45,649 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:45,649 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:45,649 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:45,650 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:45,650 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:45,650 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:45,650 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:45,651 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:45,651 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:45,651 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:45,652 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:45,652 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:48,650 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:48,650 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:48,652 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:48,652 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol06
+2018-08-25 11:58:48,653 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:48,653 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:48,653 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:48,653 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:48,653 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:48,654 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:48,654 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:48,654 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:48,655 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:48,655 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:48,655 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:48,656 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:48,656 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:48,656 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:51,657 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:51,658 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:51,660 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:51,660 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol06
+2018-08-25 11:58:51,660 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:51,660 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:51,661 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:51,661 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:51,661 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:51,661 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:51,662 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:51,662 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:51,662 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:51,663 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:51,663 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:51,663 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:51,664 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:51,664 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:54,659 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:54,659 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:54,661 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:54,661 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol06
+2018-08-25 11:58:54,662 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:54,662 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:54,663 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:54,663 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:54,664 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:54,664 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:54,664 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:54,664 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:54,665 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:54,665 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:54,665 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:54,665 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:54,666 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:54,666 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:58:57,661 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:58:57,661 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:58:57,663 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:58:57,663 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow06-ZCol06
+2018-08-25 11:58:57,663 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:57,663 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:58:57,663 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:57,664 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:57,664 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:57,664 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:57,664 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:57,665 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:57,665 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:57,665 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:57,665 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:58:57,666 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:58:57,666 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:58:57,667 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:00,682 [11] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:00,682 [11] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:00,684 [11] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:00,684 [11] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol06
+2018-08-25 11:59:00,684 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:00,685 [11] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:00,685 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:00,685 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:00,686 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:00,686 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:00,687 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:00,687 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:00,687 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:00,688 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:00,688 [11] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:00,688 [11] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:00,689 [11] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:00,689 [11] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:03,679 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:03,680 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:03,682 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:03,682 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol06
+2018-08-25 11:59:03,682 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:03,683 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:03,683 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:03,683 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:03,684 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:03,684 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:03,685 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:03,685 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:03,686 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:03,686 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:03,686 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:03,687 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:03,687 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:03,687 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:06,689 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:06,690 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:06,692 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:06,692 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol06
+2018-08-25 11:59:06,692 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:06,692 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:06,693 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:06,693 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:06,693 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:06,694 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:06,695 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:06,696 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:06,696 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:06,697 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:06,697 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:06,697 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:06,698 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:06,698 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:09,699 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:09,700 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:09,702 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:09,702 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol06
+2018-08-25 11:59:09,703 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:09,703 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:09,703 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:09,704 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:09,712 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:09,713 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:09,713 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:09,714 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:09,714 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:09,715 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:09,715 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:09,716 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:09,716 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:09,717 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:12,708 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:12,708 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:12,711 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:12,711 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol06
+2018-08-25 11:59:12,711 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:12,711 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:12,711 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:12,712 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:12,712 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:12,712 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:12,713 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:12,713 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:12,714 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:12,714 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:12,715 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:12,715 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:12,715 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:12,716 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:15,718 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:15,719 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:15,739 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:15,742 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol06
+2018-08-25 11:59:15,742 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:15,742 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:15,743 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:15,743 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:15,744 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:15,744 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:15,746 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:15,747 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:15,747 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:15,748 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:15,748 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:15,748 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:15,749 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:15,749 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:18,727 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:18,727 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:18,729 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:18,729 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol06
+2018-08-25 11:59:18,729 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:18,729 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:18,730 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:18,730 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:18,730 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:18,731 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:18,731 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:18,731 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:18,732 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:18,732 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:18,732 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:18,732 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:18,733 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:18,733 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:21,732 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:21,732 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:21,734 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:21,735 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol06
+2018-08-25 11:59:21,735 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:21,735 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:21,735 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:21,736 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:21,736 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:21,736 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:21,737 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:21,737 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:21,737 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:21,738 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:21,738 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:21,739 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:21,739 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:21,739 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:24,749 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:24,749 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:24,751 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:24,751 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol06
+2018-08-25 11:59:24,751 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:24,752 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:24,752 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:24,752 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:24,752 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:24,753 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:24,753 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:24,753 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:24,753 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:24,753 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:24,754 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:24,754 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:24,754 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:24,754 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:27,756 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:27,756 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:27,759 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:27,759 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol06
+2018-08-25 11:59:27,759 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:27,759 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:27,760 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:27,760 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:27,760 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:27,761 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:27,761 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:27,761 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:27,762 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:27,762 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:27,763 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:27,763 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:27,764 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:27,764 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:30,768 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:30,768 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:30,770 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:30,770 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol06
+2018-08-25 11:59:30,771 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:30,771 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:30,771 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:30,771 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:30,771 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:30,772 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:30,773 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:30,773 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:30,774 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:30,774 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:30,774 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:30,774 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:30,775 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:30,776 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:33,777 [12] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:33,777 [12] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:33,780 [12] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:33,780 [12] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer03-XRow03-ZCol06
+2018-08-25 11:59:33,780 [12] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:33,780 [12] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:33,780 [12] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:33,780 [12] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:33,781 [12] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:33,781 [12] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:33,781 [12] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:33,782 [12] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:33,782 [12] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:33,782 [12] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:33,783 [12] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:33,783 [12] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:33,784 [12] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:33,784 [12] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:36,790 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:36,790 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:36,792 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:36,793 [8] INFO hololens_server20180722.Models.CompPlay - Start ChangeStateComp Layer03-XRow03-ZCol06
+2018-08-25 11:59:36,793 [8] DEBUG hololens_server20180722.Models.CompPlay - layerIndex 03 xRowIndex 03 zColIndex 06
+2018-08-25 11:59:36,793 [8] DEBUG hololens_server20180722.Models.CompPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,793 [8] INFO hololens_server20180722.Models.CompPlay - End ChangeStateComp Layer02-XRow02-ZCol05 2
+2018-08-25 11:59:36,794 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetLastPosition Layer02-XRow02-ZCol05
+2018-08-25 11:59:36,794 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow02-ZCol05
+2018-08-25 11:59:36,794 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,794 [8] DEBUG hololens_server20180722.Models.OthelloPlay - reach emply position 
+2018-08-25 11:59:36,794 [8] DEBUG hololens_server20180722.Models.OthelloPlay - End CheckReverse 
+2018-08-25 11:59:36,794 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,795 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,795 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,796 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,796 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,797 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,797 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,797 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,797 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,799 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,799 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:36,799 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:36,800 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:36,800 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:39,795 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:39,796 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:39,799 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:39,799 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 11:59:39,799 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:39,799 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:39,800 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:39,800 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:39,800 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:39,800 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:39,801 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:39,801 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:39,801 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:39,801 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:39,802 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:39,802 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:39,803 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:39,803 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:39,803 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:39,803 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:42,798 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:42,799 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:42,801 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:42,801 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 11:59:42,802 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:42,802 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:42,802 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:42,802 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:42,802 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:42,802 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:42,803 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:42,803 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:42,804 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:42,804 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:42,804 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:42,805 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:42,805 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:42,805 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:42,806 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:42,806 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:45,830 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:45,830 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:45,832 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:45,832 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 11:59:45,832 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:45,832 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:45,833 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:45,833 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:45,833 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:45,833 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:45,833 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:45,833 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:45,834 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:45,834 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:45,834 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:45,834 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:45,834 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:45,835 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:45,835 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:45,835 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:48,818 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:48,819 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:48,821 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:48,821 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 11:59:48,821 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:48,821 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:48,821 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:48,822 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:48,822 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:48,822 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:48,823 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:48,823 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:48,824 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:48,824 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:48,825 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:48,825 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:48,827 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:48,827 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:48,828 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:48,828 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:51,824 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:51,826 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:51,829 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:51,829 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 11:59:51,829 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:51,830 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:51,830 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:51,830 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:51,831 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:51,831 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:51,831 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:51,831 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:51,832 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:51,832 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:51,832 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:51,832 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:51,833 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:51,833 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:51,833 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:51,833 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:54,830 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:54,831 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:54,833 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:54,833 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 11:59:54,833 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:54,833 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:54,834 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:54,834 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:54,835 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:54,835 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:54,836 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:54,836 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:54,837 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:54,837 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:54,837 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:54,837 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:54,838 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:54,838 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:54,838 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:54,838 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 11:59:57,838 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 11:59:57,839 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 11:59:57,841 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 11:59:57,841 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 11:59:57,841 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:57,841 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 11:59:57,842 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:57,842 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:57,842 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:57,842 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:57,843 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:57,843 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:57,843 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:57,844 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:57,846 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:57,847 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:57,847 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 11:59:57,848 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 11:59:57,848 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 11:59:57,849 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:00,851 [13] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:00,851 [13] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:00,853 [13] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:00,853 [13] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:00,853 [13] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:00,854 [13] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:00,854 [13] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:00,854 [13] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:00,854 [13] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:00,855 [13] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:00,856 [13] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:00,856 [13] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:00,856 [13] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:00,857 [13] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:00,857 [13] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:00,857 [13] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:00,858 [13] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:00,858 [13] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:00,858 [13] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:00,858 [13] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:03,858 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:03,859 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:03,860 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:03,861 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:03,861 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:03,861 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:03,861 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:03,861 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:03,862 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:03,862 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:03,862 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:03,862 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:03,862 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:03,863 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:03,863 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:03,863 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:03,864 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:03,864 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:03,865 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:03,865 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:06,864 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:06,864 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:06,869 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:06,869 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:06,869 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:06,869 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:06,870 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:06,870 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:06,870 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:06,870 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:06,871 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:06,871 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:06,871 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:06,872 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:06,872 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:06,872 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:06,873 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:06,873 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:06,874 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:06,874 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:09,872 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:09,873 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:09,875 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:09,876 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:09,877 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:09,878 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:09,878 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:09,878 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:09,880 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:09,880 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:09,880 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:09,881 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:09,881 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:09,881 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:09,881 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:09,881 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:09,882 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:09,882 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:09,882 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:09,882 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:12,872 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:12,872 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:12,873 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:12,873 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:12,873 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:12,874 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:12,874 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:12,874 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:12,874 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:12,874 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:12,875 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:12,875 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:12,875 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:12,876 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:12,876 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:12,876 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:12,876 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:12,877 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:12,878 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:12,878 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:15,886 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:15,886 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:15,889 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:15,889 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:15,889 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:15,890 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:15,890 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:15,890 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:15,890 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:15,891 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:15,891 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:15,891 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:15,892 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:15,892 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:15,893 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:15,893 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:15,894 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:15,894 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:15,895 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:15,895 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:18,902 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:18,903 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:18,907 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:18,907 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:18,908 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:18,908 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:18,908 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:18,908 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:18,909 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:18,909 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:18,909 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:18,910 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:18,910 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:18,912 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:18,913 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:18,914 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:18,914 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:18,915 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:18,915 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:18,915 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:21,920 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:21,920 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:21,922 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:21,923 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:21,923 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:21,923 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:21,923 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:21,924 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:21,924 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:21,925 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:21,925 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:21,926 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:21,927 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:21,927 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:21,928 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:21,928 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:21,929 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:21,929 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:21,930 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:21,930 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:24,904 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:24,905 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:24,908 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:24,909 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:24,909 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:24,909 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:24,909 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:24,910 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:24,910 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:24,910 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:24,911 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:24,911 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:24,912 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:24,912 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:24,912 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:24,913 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:24,913 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:24,913 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:24,914 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:24,914 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:27,917 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:27,917 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:27,920 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:27,920 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:27,921 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:27,921 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:27,921 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:27,922 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:27,922 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:27,922 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:27,923 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:27,923 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:27,924 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:27,924 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:27,924 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:27,924 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:27,925 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:27,925 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:27,926 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:27,926 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:30,928 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:30,928 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:30,930 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:30,930 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:30,931 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:30,931 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:30,931 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:30,931 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:30,932 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:30,932 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:30,933 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:30,933 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:30,934 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:30,934 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:30,935 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:30,935 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:30,935 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:30,935 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:30,936 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:30,936 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:33,969 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:33,969 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:33,972 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:33,972 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:33,972 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:33,972 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:33,973 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:33,973 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:33,974 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:33,974 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:33,981 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:33,982 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:33,982 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:33,983 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:33,983 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:33,984 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:33,984 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:33,984 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:33,984 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:33,985 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:36,951 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:36,951 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:36,953 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:36,954 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:36,954 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:36,954 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:36,954 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:36,954 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:36,955 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:36,955 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:36,956 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:36,957 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:36,957 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:36,958 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:36,958 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:36,958 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:36,959 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:36,959 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:36,959 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:36,959 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:39,964 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:39,964 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:39,967 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:39,967 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:39,968 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:39,968 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:39,968 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:39,968 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:39,969 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:39,969 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:39,970 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:39,970 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:39,970 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:39,971 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:39,971 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:39,972 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:39,972 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:39,972 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:39,973 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:39,973 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:42,963 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:42,963 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:42,966 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:42,966 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:42,966 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:42,966 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:42,967 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:42,967 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:42,967 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:42,968 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:42,968 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:42,968 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:42,969 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:42,969 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:42,970 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:42,970 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:42,970 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:42,971 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:42,971 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:42,971 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:45,976 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:45,976 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:45,979 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:45,979 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:45,979 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:45,979 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:45,980 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:45,980 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:45,980 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:45,981 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:45,981 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:45,981 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:45,982 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:45,982 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:45,983 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:45,983 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:45,983 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:45,984 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:45,984 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:45,984 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:48,992 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:48,992 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:48,995 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:48,995 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:48,995 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:48,995 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:48,996 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:48,996 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:48,996 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:48,997 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:48,997 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:48,997 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:48,997 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:48,998 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:48,998 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:48,998 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:48,998 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:48,999 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:48,999 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:49,004 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:51,995 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:51,995 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:51,999 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:51,999 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:51,999 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:51,999 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:52,000 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:52,000 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:52,001 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:52,001 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:52,001 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:52,002 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:52,002 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:52,002 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:52,002 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:52,003 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:52,003 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:52,003 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:52,004 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:52,004 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:55,000 [8] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:55,000 [8] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:55,002 [8] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:55,002 [8] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:55,003 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:55,003 [8] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:55,003 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:55,003 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:55,003 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:55,004 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:55,005 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:55,005 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:55,005 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:55,006 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:55,006 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:55,006 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:55,007 [8] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:55,007 [8] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:55,007 [8] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:55,007 [8] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:00:58,020 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:00:58,021 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:00:58,029 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:00:58,034 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:00:58,034 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:58,035 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:00:58,035 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:58,036 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:58,036 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:58,036 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:58,037 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:58,038 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:58,039 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:58,039 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:58,039 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:58,040 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:58,040 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:00:58,040 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:00:58,041 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:00:58,041 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
+2018-08-25 12:01:01,032 [10] INFO hololens_server20180722.Controllers.ValuesController - Start Post status_update
+2018-08-25 12:01:01,032 [10] INFO hololens_server20180722.Models.OthelloPlay - Start UpdateStatus 
+2018-08-25 12:01:01,035 [10] DEBUG hololens_server20180722.Models.OthelloPlay - roomNumber is  20180825115800544
+2018-08-25 12:01:01,035 [10] DEBUG hololens_server20180722.Models.OthelloPlay - Start CheckReverse Layer02-XRow04-ZCol07
+2018-08-25 12:01:01,035 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:01:01,035 [10] DEBUG hololens_server20180722.Models.OthelloPlay - The last position color is 0 Not need CheckReverse 
+2018-08-25 12:01:01,036 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:01:01,036 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:01:01,036 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:01:01,037 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:01:01,037 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:01:01,037 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:01:01,037 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:01:01,038 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:01:01,038 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:01:01,038 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:01:01,038 [10] DEBUG hololens_server20180722.Models.OthelloPlay - GetAdjcentPositions 26
+2018-08-25 12:01:01,038 [10] DEBUG hololens_server20180722.Models.OthelloPlay - 512
+2018-08-25 12:01:01,039 [10] INFO hololens_server20180722.Models.OthelloPlay - End UpdateStatus 
+2018-08-25 12:01:01,039 [10] INFO hololens_server20180722.Controllers.ValuesController - End Post 
